@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lovekesh Jindal</h1>
-
+<h1 align ="center"><a  href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&center=true&width=435&lines=HI+%F0%9F%91%8B%2C+I'm+LOVEKESH" alt="Typing SVG" /></a></h1>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lovekesh-jindal&label=Profile%20views&color=0e75b6&style=flat" alt="lovekesh-jindal" /> </p>
 
